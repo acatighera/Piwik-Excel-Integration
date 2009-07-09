@@ -1,0 +1,3 @@
+WEB
+1
+http://piwik.org/demo/?module=API&token_auth=["token","Enter token:"]&method=["method","Enter method to call: "]&idSite=["idSite","Enter Site Id:"]&period=["day","Enter period:"]&date=["date","Enter date:"]&format=["format","Enter Format"]
